@@ -1,0 +1,26 @@
+#MP {
+    background-color: slateblue;
+    text-align: center;
+}
+
+.img {
+    height: 200px;
+    width: 300px;
+}
+
+#title {
+    font-size: 50px;
+    font-family: cursive;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: solid;
+}
+
+.simg {
+    height: 200px;
+    width: 300px;
+}
+
+#slide {
+    text-align: center;
+}
